@@ -17,12 +17,12 @@
 
 ## Skills
 
-- 👨‍💻 **Languages:** C/C++, C#, Python, Java.
+- 👨‍💻 **Languages:** C/C++, C#, Python, Java
 - 🔨 **Technologies:** .NET, Docker, Git
 
 ## Connect with Me
 
 - 📧 **Email:** mateovega10@hotmail.com
-- 🔗 **LinkedIn:** linkedin.com/in/mateo-vega-12b103224
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/mateo-vega-12b103224
 
 Please feel free to contact me for a chat or potential collaboration. Thanks for checking out my profile! 🚀
